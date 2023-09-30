@@ -55,7 +55,7 @@ install() {
     latest)
       case $arch in
       arm64 | amd64)
-        cache_file_checksum_expect="cbe42cf8ecc33b8e0c23849e2743256a8dcd1895c936b3d73d5ba96c5671bc6d"
+        cache_file_checksum_expect="35d64416a3054c14122905d3224d93ee33ede9239df2f31005d04256f7884283"
         ;;
       esac
       ;;
