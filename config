@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export DESKTOP_CORE_NAME="warp"
+export DESKTOP_CORE_BIN_NAME="$DESKTOP_CORE_NAME"
+export DESKTOP_CORE_VERSION=v0.2023.09.26.08.09.stable_00
+export DESKTOP_CORE_ORG="whatwewant"
+
+export DESKTOP_CORE_RELEASE_DOWNLOAD="https://github.com/${DESKTOP_CORE_ORG}/warp/releases/download"
